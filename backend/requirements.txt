@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+alembic
+sqlalchemy
+psycopg2-binary
+pydantic
+mangum
+pytest
+structlog
+zappa
+mangum
+boto3
