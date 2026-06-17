@@ -1,7 +1,3 @@
-Aquí tienes tu README con el formato mejorado. He organizado la información utilizando tablas, bloques de código, listas estructuradas y negritas para que sea mucho más legible y profesional, manteniendo absolutamente todo tu contenido original intacto.
-
----
-
 # KONECTA H0: Sparring Marketplace MVP
 
 ## 🎯 Overview
@@ -390,8 +386,8 @@ This project is licensed under the MIT License - see [LICENSE](https://www.googl
 
 **[Javier L]**
 
-* **GitHub:** [@javtl](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fjavtl)
-* **LinkedIn:** [Your LinkedIn](https://www.google.com/search?q=https%3A%2F%2Flinkedin.com%2Fin%2Fjavierlsw)
+* **GitHub:** [@javtl](https://www.github.com/javtl)
+* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/javierlsw/)
 
 ---
 
