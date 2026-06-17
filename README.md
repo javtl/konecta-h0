@@ -36,41 +36,26 @@ KONECTA is a **smart sparring marketplace** for boxers, MMA fighters and Muay Th
 
 ## 🛠️ Technology Stack
 
-| Category | Components & Technologies |
-| --- | --- |
-| **Backend** | **Language:** Python 3.11 <br>
-
-<br> **Framework:** FastAPI 0.104 <br>
-
-<br> **ORM:** SQLAlchemy 2.0 (async) <br>
-
-<br> **Database:** PostgreSQL 15 (Aurora RDS) <br>
-
-<br> **Auth:** AWS Cognito + JWT (PyJWT) <br>
-
-<br> **Compute:** AWS Lambda <br>
-
-<br> **Gateway:** AWS API Gateway <br>
-
-<br> **Testing:** pytest |
-| **Frontend** | **Framework:** Next.js 14 <br>
-
-<br> **Library:** React 18 <br>
-
-<br> **Language:** TypeScript <br>
-
-<br> **Styling:** Tailwind CSS 3 <br>
-
-<br> **Deployment:** Vercel |
-| **Infrastructure** | **Compute:** AWS Lambda (serverless) <br>
-
-<br> **Database:** AWS Aurora PostgreSQL <br>
-
-<br> **Auth:** AWS Cognito <br>
-
-<br> **CDN:** Vercel Edge Network <br>
-
-<br> **Monitoring:** CloudWatch + Sentry (future) |
+| Category | Component / Tool | Details |
+| :--- | :--- | :--- |
+| **Backend** | Language | Python 3.11 |
+| | Framework | FastAPI 0.104 |
+| | ORM | SQLAlchemy 2.0 (async) |
+| | Database | PostgreSQL 15 (Aurora RDS) |
+| | Auth | AWS Cognito + JWT (PyJWT) |
+| | Compute | AWS Lambda |
+| | Gateway | AWS API Gateway |
+| | Testing | pytest |
+| **Frontend** | Framework | Next.js 14 |
+| | Library | React 18 |
+| | Language | TypeScript |
+| | Styling | Tailwind CSS 3 |
+| | Deployment | Vercel |
+| **Infrastructure** | Compute | AWS Lambda (serverless) |
+| | Database | AWS Aurora PostgreSQL |
+| | Auth | AWS Cognito |
+| | CDN | Vercel Edge Network |
+| | Monitoring | CloudWatch + Sentry (future) |
 
 ---
 
@@ -387,7 +372,7 @@ This project is licensed under the MIT License - see [LICENSE](https://www.googl
 **[Javier L]**
 
 * **GitHub:** [@javtl](https://www.github.com/javtl)
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/javierlsw/)
+* **LinkedIn:** [javierlsw](https://www.linkedin.com/in/javierlsw/)
 
 ---
 
