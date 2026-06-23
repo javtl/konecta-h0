@@ -1,0 +1,26 @@
+# ==========================================
+# BACKEND: Python / FastAPI / SQLAlchemy
+# ==========================================
+
+# Entornos virtuales (NUNCA se suben al repo)
+venv/
+.venv/
+env/
+ENV/
+pyvenv.cfg
+
+# Caché de ejecución de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Base de datos local / SQLite (si se usa para tests rápidos)
+*.db
+*.sqlite3
+
+# Logs del sistema
+*.log
