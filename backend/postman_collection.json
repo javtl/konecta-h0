@@ -1,0 +1,23 @@
+{
+  "name": "Create User (POST)",
+  "request": {
+    "method": "POST",
+    "header": [
+      {
+        "key": "Content-Type",
+        "value": "application/json"
+      }
+    ],
+    "url": {
+      "raw": "http://localhost:8000/api/users/",
+      "protocol": "http",
+      "host": ["localhost"],
+      "port": "8000",
+      "path": ["api", "users", ""]
+    },
+    "body": {
+      "mode": "raw",
+      "raw": "{\n  \"email\": \"boxer2@test.com\",\n  \"username\": \"juanboxeo2\",\n  \"gym\": \"Mi Gym\",\n  \"sport\": \"BOXING\",\n  \"weight\": 76,\n  \"experience\": \"INTERMEDIATE\"\n}"
+    }
+  }
+}
